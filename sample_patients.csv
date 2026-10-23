@@ -1,0 +1,22 @@
+
+patient_id,patient_name,age,gender,department,doctor,appointment_date,appointment_time,arrival_time,status,priority,reason
+P2001,Aarav Sharma,34,Male,General Medicine,Dr. Meera Rao,2026-10-12,09:00,08:52,Completed,Routine,Seasonal fever
+P2002,Priya Reddy,28,Female,Dermatology,Dr. Kavya Nair,2026-10-12,09:15,09:08,Completed,Routine,Skin irritation
+P2003,Rahul Verma,62,Male,Cardiology,Dr. Arjun Menon,2026-10-12,09:30,09:21,In Consultation,Priority,Follow-up review
+P2004,Ananya Das,7,Female,Pediatrics,Dr. Neha Iyer,2026-10-12,09:45,09:39,Checked In,Routine,Child wellness visit
+P2005,Vikram Singh,45,Male,Orthopedics,Dr. Rohan Shah,2026-10-12,10:00,09:48,Checked In,Priority,Knee pain
+P2006,Fatima Khan,51,Female,General Medicine,Dr. Meera Rao,2026-10-12,10:15,,Scheduled,Routine,Blood pressure review
+P2007,Kiran Kumar,39,Male,ENT,Dr. S. Thomas,2026-10-12,10:30,10:17,Checked In,Routine,Sinus symptoms
+P2008,Sneha Patel,24,Female,Gynecology,Dr. Pooja Das,2026-10-12,10:45,,Scheduled,Routine,Routine consultation
+P2009,Imran Ali,68,Male,Neurology,Dr. Anil Joseph,2026-10-12,11:00,10:43,Checked In,Urgent,Severe headache
+P2010,Divya Menon,31,Female,Cardiology,Dr. Arjun Menon,2026-10-12,11:15,,Scheduled,Routine,ECG follow-up
+P2011,Rohit Joshi,56,Male,Orthopedics,Dr. Rohan Shah,2026-10-13,09:30,09:22,Cancelled,Routine,Back pain
+P2012,Meera Iyer,42,Female,General Medicine,Dr. Meera Rao,2026-10-13,10:00,09:54,Completed,Routine,Annual health check
+P2013,Nikhil Rao,19,Male,Dermatology,Dr. Kavya Nair,2026-10-13,10:30,10:19,Scheduled,Routine,Acne review
+P2014,Sana Ahmed,36,Female,ENT,Dr. S. Thomas,2026-10-13,11:00,10:47,Checked In,Priority,Ear discomfort
+P2015,Arjun Nair,73,Male,Cardiology,Dr. Arjun Menon,2026-10-13,11:30,,Scheduled,Priority,Cardiac follow-up
+P2016,Lakshmi Devi,29,Female,Pediatrics,Dr. Neha Iyer,2026-10-14,09:15,09:05,Completed,Routine,Child wellness visit
+P2017,Manoj Gupta,48,Male,Neurology,Dr. Anil Joseph,2026-10-14,10:15,10:04,In Consultation,Urgent,Migraine review
+P2018,Ishita Roy,33,Female,Gynecology,Dr. Pooja Das,2026-10-14,11:00,,Scheduled,Routine,Follow-up visit
+P2019,Dev Malhotra,40,Male,General Medicine,Dr. Meera Rao,2026-10-15,09:45,09:34,Completed,Routine,Cough and cold
+P2020,Pooja Sethi,60,Female,Cardiology,Dr. Arjun Menon,2026-10-15,10:30,10:20,Checked In,Priority,Blood pressure review
